@@ -1,5 +1,8 @@
 # Minigrep
 
+## Source
+This came from this tutorial: https://doc.rust-lang.org/book/ch12-00-an-io-project.html
+
 ## Install / Download
 To use this you can either build it yourself using the command below. Or you can download the latest built package
 ```bash
